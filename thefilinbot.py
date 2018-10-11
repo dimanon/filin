@@ -4,8 +4,8 @@ import telebot
 from telebot import apihelper
 
 
-PROXY = {"https": "socks5://sabarban:musora666pidorasy@staff.adminez.org:9000/"}
-TOKEN = "646987513:AAFB-XnaJuijfhlwcD7fW_d0UqvkEd7RpHc"
+PROXY = {""} # подставить прокси
+TOKEN = "" # подставить токен
 HELP_STRING = """Филин умееет подтверждать.\
                Если его попросить что-то подтвердить, то он должен это подтвердить.\
                Или не подтвердить.\
